@@ -1,7 +1,6 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title: First post!
 published: true
 ---
 
