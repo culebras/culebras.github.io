@@ -27,3 +27,8 @@ published: true
 - **Basket Team Maker**. Create basket teams randomly.
   - Available on [GitHub](https://github.com/culebras/BasketTeamMaker){:target="_blank"} until version 1.0.
   - Available on [Google Play](https://play.google.com/store/apps/details?id=info.culebrasgis.basketteammaker){:target="_blank"} from version 1.0.1.
+  
+----
+
+- **Stand-up Meeting**. Control your stand-up meetings.
+  - Available on [Google Play](https://play.google.com/store/apps/details?id=io.github.culebras.standupmeeting){:target="_blank"} from version 1.0.
