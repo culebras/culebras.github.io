@@ -7,7 +7,7 @@ published: true
 
 ## Old GIS stuff (in Spanish):
 
-- **GIS forum**. [Open](http://foro-gis.2304373.n4.nabble.com/){:target="_blank"}.
+- **GIS forum**. [Open](http://foro-gis.115.s1.nabble.com/){:target="_blank"}.
 
 ----
 
